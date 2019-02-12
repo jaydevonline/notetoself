@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.note {
+  border-bottom : solid 1px #eeeeee;
+  text-align: left;
+}
